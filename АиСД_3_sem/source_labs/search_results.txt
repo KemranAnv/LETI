@@ -1,0 +1,12 @@
+Sequential Search Results:
+Array A: 5 occurrences
+Array B: 4 occurrences
+Array C: 3 occurrences
+Array D: 2 occurrences
+Array E: 1 occurrences
+Binary Search Results:
+Array A: 5 occurrences
+Array B: 4 occurrences
+Array C: 3 occurrences
+Array D: 2 occurrences
+Array E: 1 occurrences
